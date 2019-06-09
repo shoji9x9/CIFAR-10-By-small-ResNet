@@ -1,9 +1,9 @@
 # Overview
-This is just a example to train CIFAR 10 by small Residual Network (ResNet) for learning TensorFlow 2.0.
+This is just a example to train CIFAR-10 by small Residual Network (ResNet) for learning TensorFlow 2.0.
 
 # Description
 * This is an assignment of [Deep Learning basic class](https://deeplearning.jp/lectures/dlb2018/) arranged a little. 
-* Training CIFAR 10 by small ResNet on Google Colaboratory with TensorFlow 2.0 Alpha.
+* Training CIFAR-10 by small ResNet on Google Colaboratory with TensorFlow 2.0 Alpha.
 * Data is augmented by ImageDataGenerator of Keras.
 
 # Dataset
