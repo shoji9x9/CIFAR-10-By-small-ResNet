@@ -23,3 +23,7 @@ The graph shoud be shown here.
 
 # How to open it on Google Colaboratory
 Please take a look at [How-to-open-ipynb-on-Google-Colaboratory](https://github.com/shoji9x9/How-to-open-ipynb-on-Google-Colaboratory).
+
+# Reference
+* https://github.com/yu4u/cutout-random-erasing
+* https://github.com/jerett/Keras-CIFAR10
